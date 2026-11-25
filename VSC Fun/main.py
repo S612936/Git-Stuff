@@ -1,3 +1,7 @@
 print("Hello world!")
 
-# there are no comments here
+#comment
+
+# this is another comment
+
+# this is one more comment
